@@ -1,0 +1,148 @@
+#container{
+
+text-align: center;
+	margin: 0 auto;
+font-size: 20px;
+}
+
+
+body {
+background-color: #3A0338;
+display: inline-block;
+
+width: 100%;
+color:  #D2AD2F;
+
+}
+
+
+
+
+.class{
+text-align: center;
+	color: #D2AD2F;
+
+}
+
+footer{
+	width: 100%;
+	display: inline-block;
+	margin: 0 auto;
+	color: #D2AD2F;
+
+}
+
+}
+h1{
+	font-family: 'Sigmar One', cursive;
+	text-align: left;
+	margin: 0 auto;
+
+
+}
+
+img{
+	width: 10%;
+
+
+}
+
+#winner{
+	font-size: 15px;
+	font-family:  'Sigmar One', cursive;
+	text-align: center;
+}
+
+
+footer {
+	background-color: #D2AD2F;
+	width: 100%;
+	display: inline-block;
+}
+
+.navbar-background{
+	color: #D2AD2F ;
+    background-color: #3A0338;
+
+}
+
+li{
+	color: #3A0338
+}
+a:hover{
+	color:#D2AD2F;
+}
+
+iframe:hover{
+color: #3A0338
+}
+
+
+}
+
+.index{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 15px;
+
+}
+
+.head{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+/*----------------------------------*/
+
+.catalog{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+/*===================================*/
+
+.sm{
+text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+/*------------------------------------*/
+.submit{
+text-align: center;
+	margin: 0 auto;
+font-size: 20px;
+}
+/*-------------------------------------*/
+.contact{
+text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+.about{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+.nav, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover,
+									.nav-tabs > li.active > a:focus, .nav-tabs > li > a {
+
+										color: #D2AD2F;
+									}
+
+#too{
+
+font-size: 20px;
+}
+
+#navo{
+font-size: 20px;	
+}
+
+ul{
+	margin: 0 auto;
+}
